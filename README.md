@@ -20,13 +20,12 @@ A full-stack web application for managing inventory with real-time tracking, use
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **React 19** - Modern JavaScript library for building user interfaces
+- **React** - Modern JavaScript library for building user interfaces
 - **Vite** - Fast build tool and development server
 - **Redux Toolkit** - State management for complex application state
 - **React Router** - Declarative routing for React applications
 - **Tailwind CSS** - Utility-first CSS framework
 - **Radix UI** - Accessible UI components
-- **Axios** - HTTP client for API requests
 - **Lucide React** - Beautiful & consistent icon toolkit
 
 ### Backend
